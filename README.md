@@ -21,4 +21,21 @@ A simple and elegant React-based Quotes Generator with a beautiful cityscape bac
 - Deployed using Vercel
 
 ## 🧩 Project Structure
+project-root/
+│
+├── public/
+│ └── city.jpg # Background image
+│
+├── src/
+│ ├── App.js # Main React component
+│ ├── App.css # Tailwind and global styles
+│ └── index.js # Entry point
+│
+├── tailwind.config.js # Tailwind config
+├── postcss.config.js # PostCSS config
+└── package.json
 
+
+## 🧩 Team Member
+1. Dhanyajay Kumar Kosle
+2. Vishal Gupta 
