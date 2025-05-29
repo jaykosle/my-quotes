@@ -1,12 +1,24 @@
-# React + Vite
+# 🌆 Quotes Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant React-based Quotes Generator with a beautiful cityscape background. This project was developed as part of a Software Engineering course to demonstrate the application of software development principles and lifecycle phases.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](public/city.jpg)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Dynamic quote generation from a list of motivational quotes
+- Responsive and centered UI using Tailwind CSS v3+
+- Beautiful background image loaded from local assets
+- Styled quote card with blur and transparency for modern UI
+
+## 🛠️ Technologies Used
+
+- React (Vite or Create React App)
+- Tailwind CSS v3+
+- JavaScript (ES6)
+- Deployed using Vercel
+
+## 🧩 Project Structure
+
